@@ -4,12 +4,8 @@
   <img align="left" src="https://static.wikia.nocookie.net/eldenring/images/3/32/ER_General_Radahn.jpg/revision/latest/scale-to-width-down/1000?cb=20220217022220" width="300" height="500">
 <p>I'm a highly-motivated, self-taught Jr.Front-end developer consistently working on improving as a developer and becoming a more skilled programmer. I've been learning and practicing web development for almost two years.<p/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremkoca&label=Profile%20views&color=0e75b6&style=flat" alt="keremkoca" /> </p>
-
-##  
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=keremkoca&title=Commits,Repositories)](https://github.com/keremkoca/github-profile-trophy)
-   
    I'm currently working on React.js,TypeScript and Material UI
+   
 ## Languages And Tools
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -23,6 +19,7 @@
 
           
 ##
+[![trophy](https://github-profile-trophy.vercel.app/?username=keremkoca&title=Commits,Repositories)](https://github.com/keremkoca/github-profile-trophy)
 [![Kerem Koca's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremkoca&show_icons=true&theme=onedark&height="50"&hide=issues,prs,contribs)](https://github.com/keremkoca/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremkoca&show_icons=true&theme=onedark&layout=compact)](https://github.com/keremkoca/github-readme-stats) 
   
   
