@@ -5,6 +5,8 @@
 <p>I'm a highly-motivated, self-taught Jr.Front-end developer consistently working on improving as a developer and becoming a more skilled programmer. I've been learning and practicing web development for almost two years.<p/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremkoca&label=Profile%20views&color=0e75b6&style=flat" alt="keremkoca" /> </p>
 
+##  
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=keremkoca&title=Commits,Repositories)](https://github.com/keremkoca/github-profile-trophy)
    
    I'm currently working on React.js,TypeScript and Material UI
